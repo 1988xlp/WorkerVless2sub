@@ -7,7 +7,7 @@ let addressesnotls = [];
 let addressesnotlsapi = [];
 
 let addressescsv = [];
-let DLS = 7;
+let DLS = 1;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
 let subConverter = 'SUBAPI.cmliussss.net';
