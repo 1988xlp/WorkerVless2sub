@@ -1,7 +1,7 @@
 
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
-let addressesapi = ["https://cdn.jsdelivr.net/gh/1988xlp/WorkerVless2sub@main/ALL-2026-07-03.txt?v=999"];
+let addressesapi = ["https://cdn.jsdelivr.net/gh/1988xlp/WorkerVless2sub@main/ALL-2026-08-20.txt?v=20260820"];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
